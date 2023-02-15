@@ -43,3 +43,20 @@ tr:nth-child(even){
     text-shadow: 0svi;
     border-style: ridge;
 }
+
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+
+ul.navbar-horizontal li {
+    float:left;
+    color:#000;
+    background-color:purple
+}
+
+ul.navbar-horizontal a {
+    display:block;
+    padding:8px;
+}
