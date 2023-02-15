@@ -29,5 +29,17 @@ table{
 }
 
 tr:nth-child(even){
-    background-color: darkgreen;
+    background-color: darkgreen ;
+}
+
+.FRAU_LINDEMANN:hover{
+    color: darkseagreen;
+    text-shadow: 0ic;
+    border-style: dashed;
+}
+
+.ROSA:hover{
+    color:darkslategrey;
+    text-shadow: 0svi;
+    border-style: ridge;
 }
