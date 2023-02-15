@@ -27,3 +27,7 @@ table{
     margin-right: 0cqw;
     border-style:groove;
 }
+
+tr:nth-child(even){
+    background-color: darkgreen;
+}
