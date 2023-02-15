@@ -17,3 +17,13 @@ background-color: lightblue;}
 .ROSA{
     color:chartreuse;
 }
+
+table{
+    border: 4px;
+    color: darkkhaki;
+    text-align:left;
+    padding-right:0cm;
+    margin-left: 0cqmin;
+    margin-right: 0cqw;
+    border-style:groove;
+}
