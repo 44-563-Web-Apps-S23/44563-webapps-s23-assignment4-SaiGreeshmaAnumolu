@@ -1,0 +1,13 @@
+p{font-family: cursive;
+font-size: medium;
+color:black;}
+
+#directions{font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: small;
+color:black;
+background-color:bisque;}
+
+#directions.hover{color: blueviolet;
+background-color: lightblue;}
+
+
