@@ -7,7 +7,13 @@ font-size: small;
 color:black;
 background-color:bisque;}
 
-#directions.hover{color: blueviolet;
+#directions:hover{color:red;
 background-color: lightblue;}
 
+.FRAU_LINDEMANN{
+    color: burlywood;
+}
 
+.ROSA{
+    color: palevioletred;
+}
